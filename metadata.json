@@ -1,0 +1,5 @@
+{
+  "name": "FitLogic Pro",
+  "description": "An adaptive 7-day fitness system that adjusts routines based on biometrics, BMI categorization, and recovery needs. Featuring a smart rest day algorithm and real-time calorie tracking with MET values.",
+  "requestFramePermissions": []
+}
