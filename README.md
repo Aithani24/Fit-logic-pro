@@ -32,3 +32,11 @@ with fitness-related guidance and personalized recommendations.
 
 ```bash
 npm install
+
+## Future Improvements
+
+- User authentication and cloud-based profiles
+- Database integration for storing workout history
+- Progress tracking and fitness analytics
+- More personalized workout recommendations
+- Integration with wearable fitness devices
