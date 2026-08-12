@@ -32,6 +32,7 @@ with fitness-related guidance and personalized recommendations.
 
 ```bash
 npm install
+```
 
 ## Future Improvements
 
