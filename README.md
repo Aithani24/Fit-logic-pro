@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# FitLogic Pro
 
-# Run and deploy your AI Studio app
+FitLogic Pro is a web-based fitness assistant that provides users
+with fitness-related guidance and personalized recommendations.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1tS8WqsSdAYqSrTfBUOfxJBHp6REsyVyD
+- Interactive fitness assistant
+- AI-powered recommendations using Gemini API
+- Responsive user interface
+- Component-based React architecture
+- Easy-to-use navigation and user interaction
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- JavaScript
+- Vite
+- CSS
+- Gemini API
+- Git & GitHub
+- Vercel
 
+## Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Prerequisites
+- Node.js
+- Gemini API key
+
+### Installation
+
+```bash
+npm install
